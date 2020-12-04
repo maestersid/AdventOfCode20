@@ -8,7 +8,8 @@ namespace AdventCode20
         static void Main(string[] args)
         {
             //var day = new Day1();
-            var day = new Day2();
+            //var day = new Day2();
+            var day = new Day3();
             day.Solve();
         }
     }
